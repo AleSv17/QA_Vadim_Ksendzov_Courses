@@ -1,0 +1,60 @@
+JSON
+ 1. Создать внешний репозиторий c названием JSON == GitHub => Your repositories => Repository name “JSON” => Create repository
+ 2. Клонировать репозиторий JSON на локальный компьютер == git clone https://github.com/AleSv17/JSON.git
+ 3. Внутри локального JSON создать файл “new.json” == cd JSON && touch new.json
+ 4. Добавить файл под гит == git add new.json
+ 5. Закоммитить файл == git commit -m "exercise_8"
+ 6. Отправить файл на внешний GitHub репозиторий == git push
+ 7. Отредактировать содержание файла “new.json” - написать информацию о себе (ФИО, возраст, количество домашних животных, будущая желаемая зарплата). Всё написать в формате JSON == vim new.json
+ 8. Отправить изменения на внешний репозиторий == git commit -am "change" && git push
+ 9. Создать файл preferences.json == touch preferences.json
+ 10. В файл preferences.json добавить информацию о своих предпочтениях (Любимый фильм, любимый сериал, любимая еда, любимое время года, сторона которую хотели бы посетить) в формате JSON == vim preferences.json
+ 11. Создать файл sklls.json добавить информацию о скиллах которые будут изучены на курсе в формате JSON == touch sklls.json && vim sklls.json
+ 12. Отправить сразу 2 файла на внешний репозиторий == git add. && git commit -m "2 files" && git push
+ 13. На веб интерфейсе создать файл bug_report.json == создать в аккаунте GitHub в репозитории JSON => Add file =>Create new file 
+ 14. Сделать Commit changes (сохранить) изменения на веб интерфейсе == Commit new file на сайте
+ 15. На веб интерфейсе модифицировать файл bug_report.json, добавить баг репорт в формате JSON == Go to file => bug_report.json => edit this file
+ 16. Сделать Commit changes (сохранить) изменения на веб интерфейсе == Ввести изменения => Commit changes
+ 17. Синхронизировать внешний и локальный репозиторий JSON == git pull
+
+
+XML
+ 1. Создать внешний репозиторий c названием XML == GitHub => Your repositories => Repository name “XML” => Create repository
+ 2. Клонировать репозиторий XML на локальный компьютер == git clone https://github.com/AleSv17/XML.git
+ 3. Внутри локального XML создать файл “new.xml” == cd XML && touch new.xml
+ 4. Добавить файл под гит == git add new.xml
+ 5. Закоммитить файл == git commit -m “firstFile”
+ 6. Отправить файл на внешний GitHub репозиторий == git push
+ 7. Отредактировать содержание файла “new.xml” - написать информацию о себе (ФИО, возраст, количество домашних животных, будущая желаемая зарплата). Всё написать в формате XML == vim new.xml
+ 8. Отправить изменения на внешний репозиторий == git commit -am "change" && git push
+ 9. Создать файл preferences.xml == touch preferences.xml
+ 10. В файл preferences.xml добавить информацию о своих предпочтениях (Любимый фильм, любимый сериал, любимая еда, любимое время года, сторона которую хотели бы посетить) в формате XML == vim preferences.xml
+ 11. Создать файл sklls.xml добавить информацию о скиллах которые будут изучены на курсе в формате XML == touch sklls.json && vim sklls.json
+ 12. Сделать коммит в одну строку == git add . && git commit -m "2 files"
+ 13. Отправить сразу 2 файла на внешний репозиторий == git push
+ 14. На веб интерфейсе создать файл bug_report.xml == создать в аккаунте GitHub в репозитории XML => Add file =>Create new file
+ 15. Сделать Commit changes (сохранить) изменения на веб интерфейсе == Commit new file на сайте
+ 16. На веб интерфейсе модифицировать файл bug_report.xml, добавить баг репорт в формате XML == Go to file => bug_report.xml => edit this file
+ 17. Сделать Commit changes (сохранить) изменения на веб интерфейсе == Ввести изменения => Commit changes
+ 18. Синхронизировать внешний и локальный репозиторий XML == git pull
+
+
+TXT
+ 1. Создать внешний репозиторий c названием TXT == GitHub => Your repositories => Repository name “TXT” => Create repository
+ 2. Клонировать репозиторий TXT на локальный компьютер == git clone https://github.com/AleSv17/TXT.git
+ 3. Внутри локального TXT создать файл “new.txt” == cd TXT && touch new.txt
+ 4. Добавить файл под гит == git add new.txt
+ 5. Закоммитить файл == git commit -m “TXT”
+ 6. Отправить файл на внешний GitHub репозиторий == git push
+ 7. Отредактировать содержание файла “new.txt” - написать информацию о себе (ФИО, возраст, количество домашних животных, будущая желаемая зарплата). Всё написать в формате TXT == vim new.txt
+ 8. Отправить изменения на внешний репозиторий == git commit -m "2 files" && git push
+ 9. Создать файл preferences.txt == touch preferences.txt
+ 10. В файл preferences.txt” добавить информацию о своих предпочтениях (Любимый фильм, любимый сериал, любимая еда, любимое время года, сторона которую хотели бы посетить) в формате TXT == vim preferences.txt
+ 11. Создать файл sklls.txt добавить информацию о скиллах которые будут изучены на курсе в формате TXT == cat >> sklls.txt
+ 12. Сделать коммит в одну строку == git add . && git commit -m "2 files"
+ 13. Отправить сразу 2 файла на внешний репозиторий == git push
+ 14. На веб интерфейсе создать файл bug_report.txt == создать в аккаунте GitHub в репозитории TXT => Add file =>Create new file
+ 15. Сделать Commit changes (сохранить) изменения на веб интерфейсе == Commit new file на сайте
+ 16. На веб интерфейсе модифицировать файл bug_report.txt, добавить баг репорт в формате TXT == Go to file => bug_report.txt => edit this file
+ 17. Сделать Commit changes (сохранить) изменения на веб интерфейсе == Ввести изменения => Commit changes
+ 18. Синхронизировать внешний и локальный репозиторий TXT == git pull
